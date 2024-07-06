@@ -3,11 +3,11 @@
   <title>我们最终都会相见</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://leety956.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://leety956.github.io/"/>
   <updated>2024-06-24T04:02:18.338Z</updated>
-  <id>http://example.com/</id>
+  <id>https://leety956.github.io/</id>
   
   <author>
     <name>Leety956</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="http://example.com/post/13233217/"/>
-    <id>http://example.com/post/13233217/</id>
+    <link href="https://leety956.github.io/post/13233217/"/>
+    <id>https://leety956.github.io/post/13233217/</id>
     <published>2024-06-13T15:32:17.000Z</published>
     <updated>2024-06-24T04:02:18.338Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://leety956.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="a" scheme="http://example.com/tags/a/"/>
+    <category term="a" scheme="https://leety956.github.io/tags/a/"/>
     
-    <category term="bb" scheme="http://example.com/tags/bb/"/>
+    <category term="bb" scheme="https://leety956.github.io/tags/bb/"/>
     
-    <category term="ccc" scheme="http://example.com/tags/ccc/"/>
+    <category term="ccc" scheme="https://leety956.github.io/tags/ccc/"/>
     
   </entry>
   
